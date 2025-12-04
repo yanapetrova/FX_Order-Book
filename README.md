@@ -2,8 +2,8 @@
 ## "Assessing Cross-Currency Predictability in Forex Markets: Insights from Limit Order Book Data"
 
 Authors:  
-Yana Petrova (Aarhus University)
-Anders Vilhelmsson (Lund University) 
+Yana Petrova (Aarhus University)  
+Anders Vilhelmsson (Lund University)   
 Lars L. Norden (Stockholm University)
 
 Replication package assembled: 17 November 2025
