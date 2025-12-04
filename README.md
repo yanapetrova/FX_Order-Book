@@ -1,5 +1,5 @@
 # Replication Package for  
-"Assessing Cross-Currency Predictability in Forex Markets: Insights from Limit Order Book Data"
+## "Assessing Cross-Currency Predictability in Forex Markets: Insights from Limit Order Book Data"
 
 Authors:  
 Anders Vilhelmsson (Lund University)  
@@ -15,8 +15,7 @@ Replication package assembled: 17 November 2025
 FX_Order-Book/
 ├── code/                 # MATLAB scripts for running the replication
 ├── data/                 # Documentation for datasetFX.mat
-├── output/               # Documentation for Case_*.mat intermediate files
-└── docs/                 # Additional replication instructions (if provided)
+└── output/               # Documentation for Case_*.mat intermediate files
 ```
 
 ### /code
