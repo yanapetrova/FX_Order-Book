@@ -15,7 +15,7 @@ datalocation = 'g:\Dropbox\Yana\Data';
 cd(datalocation);
 
 % Save location  (change the path to your save data location)
-savepath = 'g:\Dropbox\Yana\results_sep23';
+savepath = 'g:\Dropbox\Yana\results';
 % If you don't re-estimate the results, the supplied intermediary results
 % must be placed in the savepath location.
 % Note if you have several files for the same 'case' and frequency in this
@@ -311,5 +311,6 @@ ResultTable7.Properties.VariableNames = {'Currencies','Lasso','%incl','ada-LASSO
 writetable(ResultTable5,savepath+"\Table5.xlsx")
 writetable(ResultTable6,savepath+"\Table6.xlsx")
 writetable(ResultTable7,savepath+"\Table7.xlsx")
+
 
 
