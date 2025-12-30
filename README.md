@@ -16,7 +16,7 @@ Replication package assembled: 17 November 2025
 FX_Order-Book/
 ├── code/                 # MATLAB scripts for running the replication
 ├── data/                 # Documentation for datasetFX.mat
-├── output/               # Documentation for Case_*.mat intermediate files
+├── output/               # Documentation for Case_*.mat intermediate files and Figures 1 and 2æ
 └── docs/                 # Additional replication instructions 
 ``````
 
@@ -30,7 +30,7 @@ Contains all MATLAB code required to replicate the results:
 Contains `README_DATA.md`, which describes how to obtain and use `datasetFX.mat`.
 
 ### /output
-Contains `README_OUTPUT.md`, which explains how to obtain and use all `Case_*.mat` files.
+Contains `README_OUTPUT.md`, which explains how to obtain and use all `Case_*.mat` files as well as the Figures 1 and 2 in the paper.
 
 ---
 
