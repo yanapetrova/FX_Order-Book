@@ -26,6 +26,8 @@ These files are available through the Release page of this repository:
 
 https://github.com/yanapetrova/FX_Order-Book/releases
 
+In the same reciprocity you can find the PC_variation.explained, which provides the inputs and the final graphs shown in Figures 1 and 2 of the paper.
+
 ### How to use these files
 1. Download all Case_*.mat files from the Release page.
 2. Place them into the folder you will use as `savepath`.
